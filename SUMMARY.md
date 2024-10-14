@@ -20,4 +20,5 @@
 * [Running Bridge Node](bridge-da-node/running-bridge-node.md)
 * [Upgrading](bridge-da-node/upgrading.md)
 * [Monitoring](bridge-da-node/monitoring.md)
+* [Upgrade the Autonity Validator Node](bridge-da-node/upgrade-the-autonity-validator-node.md)
 * [Quick Start](bridge-da-node/quick-start.md)
